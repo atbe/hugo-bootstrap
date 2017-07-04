@@ -3,6 +3,11 @@
     IconClass = "fa-info-circle"
     URL = "/about"
 
+[projects]
+    Name = "Projects"
+    Title = "Show projects I've worked on"
+    URL = "/projects"
+
 [posts]
     Name = "Posts"
     Title = "Show list of posts"
